@@ -54,4 +54,4 @@ ALPHA: a measure for the density of walls in the maze
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
- <p align="center"><font size="60"><b>DIMENSION = 6</b></font></p>
+ # DIMENSION
