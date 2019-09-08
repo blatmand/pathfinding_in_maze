@@ -46,9 +46,10 @@ ALPHA: a measure for the density of walls in the maze
 ## Examples
 <img align="left"  src="https://github.com/blatmand/pathfinding_in_maze/blob/master/True2.JPG">
 <img align="right"  src="https://github.com/blatmand/pathfinding_in_maze/blob/master/False2.JPG">
-<p>1 <\p>
-<p>2 <\p>
-<p>3 <\p>
-<p>4 <\p>
-<p>5 <\p>
+
+
+
+
+
+
 ## DIMENSION = 6
