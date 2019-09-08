@@ -1,8 +1,14 @@
 ## Pathfinding in 2 dimensional mazes
 
 ## Problem description
-Goal: deciding whether there is a connection between a
-starting and an ending cell in a square 2 dimensional maze.
+This project is about deciding whether there is a connection between a
+starting and an ending cell in a square 2 dimensional maze. 
+To run the python scripts in python 3:
+* install the necessary packages from requirements.txt
+* To run the pathfinding program run the script astar_search
+* to create the plot showing the fraction of solvable mazes created at different alpha
+* run the plot_fraction_solvable_grids.py
+* To learn more about the recursive search algorithm and the astar algorithm see the bibliography  
 <img align="right"  src="https://github.com/blatmand/pathfinding_in_maze/blob/master/Example_Grid.png">
 
 * Can move in the maze in 4
