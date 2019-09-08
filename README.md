@@ -84,3 +84,16 @@ ALPHA: a measure for the density of walls in the maze
 <img align="center" width = "864"   src="https://github.com/blatmand/pathfinding_in_maze/blob/master/Plot3.png">
 
 ## &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; DIMENSION = 30
+
+### Create maze of given dimension
+### Run recursive search to determine solvability
+### If solvable−→run A* to find the path
+
+## Summary and results
+
+### Can generate square mazes with randomly distributed
+### locations of walls
+### Dimension of maze and density of walls adjustable
+### Recursive search algorithm decides wthether there is a
+### solution to the maze
+### A* algorithm can plot the optimal path if it exists
