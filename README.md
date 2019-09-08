@@ -100,9 +100,7 @@ ALPHA: a measure for the density of walls in the maze
 
 ## Bibliography
 
-## Further Reading
-### For those interested in learning more about it: Recursive
-### search algorithm and A* algorithm
+### Recursive search algorithm and A* algorithm
 ### https://www.laurentluce.com/posts/solving-mazes-using-python-simple-recursivity-and-a-search/
 ### A* algorithm on GitHub:
 ### https://github.com/laurentluce/python-algorithms/blob/master/algorithms/a_star_path_finding.py
