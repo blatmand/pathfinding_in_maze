@@ -90,12 +90,12 @@ either 0 or 1
 
 ## Summary and results
 
-### Can generate square mazes with randomly distributed
+### * Can generate square mazes with randomly distributed
 ### locations of walls
-### Dimension of maze and density of walls adjustable
-### Recursive search algorithm decides wthether there is a
+### * Dimension of maze and density of walls adjustable
+### * Recursive search algorithm decides wthether there is a
 ### solution to the maze
-### A* algorithm can plot the optimal path if it exists
+### * A* algorithm can plot the optimal path if it exists
 
 ## Bibliography
 
