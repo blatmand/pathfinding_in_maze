@@ -71,7 +71,7 @@ ALPHA: a measure for the density of walls in the maze
 
 ## Examples of pathfinding using A* algorithm
 
-<img align="center"  src="https://github.com/blatmand/pathfinding_in_maze/blob/master/Plot1.png">
+<img align="right"  src="https://github.com/blatmand/pathfinding_in_maze/blob/master/Plot1.png">
 
 ## &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; DIMENSION = 6
 
