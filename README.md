@@ -17,16 +17,16 @@ right
 
 ## Recursive search algorithm
 
-Algorithm uses recursion such that each cell in the maze
+* Algorithm uses recursion such that each cell in the maze
 delegates the question of connectivity to it’s neighbors (if they
 exist) unless the cell itself is the target or has already been
 visited
-Overall algorithm walks through the maze and avoids walls
+* Overall algorithm walks through the maze and avoids walls
 and already visited cells.
-Pro: algorithm is relatively easy to understand and implement
-Returns True or False depending on whether there exists a
+* Pro: algorithm is relatively easy to understand and implement
+* Returns True or False depending on whether there exists a
 path to the target cell
-Drawback: does not give the shortest path between the target
+* Drawback: does not give the shortest path between the target
 and initial cell. For this task there exists e.g. an algorithm
 called A*.
 <img align="center"  src="https://github.com/blatmand/pathfinding_in_maze/blob/master/recursive_search_algorithm.JPG">
