@@ -30,3 +30,15 @@ path to the target cell
 Drawback: does not give the shortest path between the target
 and initial cell. For this task there exists e.g. an algorithm
 called A*.
+<img align="center"  src="https://github.com/blatmand/pathfinding_in_maze/blob/master/recursive_search_algorithm.JPG">
+
+## Maze creation
+
+Create square mazes by randomly asigning each cell a value of
+either 0 or 1
+Assign a value of 2 to target cell at upper right corner
+Two parameters: DIMENSION and ALPHA
+DIMENSION: Size of square maze
+ALPHA: a measure for the density of walls in the maze
+
+<img align="center"  src="https://github.com/blatmand/pathfinding_in_maze/blob/master/probabilities.png">
