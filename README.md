@@ -7,14 +7,13 @@ starting and an ending cell in a square 2 dimensional maze.
 
 * Can move in the maze in 4
 direction:
-Horizontally to the left or
+* Horizontally to the left or
 right
-Vertically up or down
-Cannot move diagonally
-Cannot move through walls
+* Vertically up or down
+* Cannot move diagonally
+* Cannot move through walls
 (blue)
-Cannot move outside the
-maze
+* Cannot move outside the maze
 
 ## Recursive search algorithm
 
