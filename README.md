@@ -5,7 +5,7 @@ Goal: deciding whether there is a connection between a
 starting and an ending cell in a square 2 dimensional maze.
 <img align="right"  src="https://github.com/blatmand/pathfinding_in_maze/blob/master/Example_Grid.png">
 
-Can move in the maze in 4
+..* Can move in the maze in 4
 direction:
 Horizontally to the left or
 right
