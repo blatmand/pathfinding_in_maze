@@ -2,7 +2,7 @@
 
 ## Problem description
 This project is about deciding whether there is a connection between a
-starting and an ending cell in a square 2 dimensional maze. 
+starting and an ending cell in a 2 dimensional square maze. 
 To run the python scripts in python 3:
 * Install the necessary packages from requirements.txt
 * To run the pathfinding program:
@@ -40,9 +40,10 @@ called A*.
 
 ## Maze creation
 
-* Create square mazes by randomly asigning each cell a value of
+* Create square mazes by randomly assigning each cell a value of
 either 0 or 1
 * Assign a value of 2 to target cell at upper right corner
+* Assign a value of 0 to lower left cell
 * Two parameters: DIMENSION and ALPHA
 * DIMENSION: Size of square maze
 * ALPHA: a measure for the density of walls in the maze
